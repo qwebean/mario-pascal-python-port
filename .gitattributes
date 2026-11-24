@@ -1,0 +1,5 @@
+# 按字节存二进制数据；源码与文档统一 LF。
+* -text
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf

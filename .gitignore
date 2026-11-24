@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器运行时生成的敌人标记图集缓存
+mario_py/data/cache/
+
+# 本地证据 / 预览，不属于发布物
+screenshots/
+*.png.bak
+*.log

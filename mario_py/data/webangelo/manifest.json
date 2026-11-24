@@ -1,0 +1,23 @@
+{
+  "source": "Mario.swf (WEBANGELO mod, converted frames)",
+  "sheets": {
+    "bullet": {
+      "char_id": 35,
+      "frame_w": 12,
+      "frame_h": 7,
+      "frames": 5
+    },
+    "enemy": {
+      "char_id": 43,
+      "frame_w": 20,
+      "frame_h": 14,
+      "frames": 36
+    },
+    "boss": {
+      "char_id": 50,
+      "frame_w": 40,
+      "frame_h": 28,
+      "frames": 6
+    }
+  }
+}
