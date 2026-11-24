@@ -1,0 +1,1983 @@
+{
+ "BLOCK000": {
+  "file": "BLOCK000.png",
+  "idx_file": "BLOCK000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BLOCK.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "BLOCK32000": {
+  "file": "BLOCK32000.png",
+  "idx_file": "BLOCK32000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "Block32.$00.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "BRICK0000": {
+  "file": "BRICK0000.png",
+  "idx_file": "BRICK0000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BRICK0.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "BRICK1000": {
+  "file": "BRICK1000.png",
+  "idx_file": "BRICK1000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BRICK1.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "BRICK2000": {
+  "file": "BRICK2000.png",
+  "idx_file": "BRICK2000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BRICK2.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "BROWN000": {
+  "file": "BROWN000.png",
+  "idx_file": "BROWN000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BROWN.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "BUSH000": {
+  "file": "BUSH000.png",
+  "idx_file": "BUSH000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "Bush.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "CHAMP000": {
+  "file": "CHAMP000.png",
+  "idx_file": "CHAMP000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "CHAMP.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "chibibo000": {
+  "file": "chibibo000.png",
+  "idx_file": "chibibo000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "CHIBIBO.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "COIN000": {
+  "file": "COIN000.png",
+  "idx_file": "COIN000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "COIN.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "DES000": {
+  "file": "DES000.png",
+  "idx_file": "DES000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "DES.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "DONUT000": {
+  "file": "DONUT000.png",
+  "idx_file": "DONUT000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "DONUT.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "exit000": {
+  "file": "exit000.png",
+  "idx_file": "exit000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "EXIT.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "F000": {
+  "file": "F000.png",
+  "idx_file": "F000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "F.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "FALL000": {
+  "file": "FALL000.png",
+  "idx_file": "FALL000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "FALL.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "FENCE000": {
+  "file": "FENCE000.png",
+  "idx_file": "FENCE000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "Fence.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "fire000": {
+  "file": "fire000.png",
+  "idx_file": "fire000.npy",
+  "w": 12,
+  "h": 7,
+  "source": "FIRE.$00",
+  "bytes": 84,
+  "linear": false
+ },
+ "FISH000": {
+  "file": "FISH000.png",
+  "idx_file": "FISH000.npy",
+  "w": 20,
+  "h": 15,
+  "source": "FISH.$00",
+  "bytes": 300,
+  "linear": false
+ },
+ "FJLUI000": {
+  "file": "FJLUI000.png",
+  "idx_file": "FJLUI000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "FJLUI.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "fjmar000": {
+  "file": "fjmar000.png",
+  "idx_file": "fjmar000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "FJMAR.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "flower000": {
+  "file": "flower000.png",
+  "idx_file": "flower000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "FLOWER.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "FWLUI000": {
+  "file": "FWLUI000.png",
+  "idx_file": "FWLUI000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "FWLUI.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "fwmar000": {
+  "file": "fwmar000.png",
+  "idx_file": "fwmar000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "FWMAR.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "GRASS000": {
+  "file": "GRASS000.png",
+  "idx_file": "GRASS000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS1000": {
+  "file": "GRASS1000.png",
+  "idx_file": "GRASS1000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS1.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS2000": {
+  "file": "GRASS2000.png",
+  "idx_file": "GRASS2000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS2.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS3000": {
+  "file": "GRASS3000.png",
+  "idx_file": "GRASS3000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS3.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "green000": {
+  "file": "green000.png",
+  "idx_file": "green000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GREEN.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRKOOPA000": {
+  "file": "GRKOOPA000.png",
+  "idx_file": "GRKOOPA000.npy",
+  "w": 20,
+  "h": 24,
+  "source": "GRKOOPA.$00",
+  "bytes": 480,
+  "linear": false
+ },
+ "grkp000": {
+  "file": "grkp000.png",
+  "idx_file": "grkp000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRKP.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "GROUND000": {
+  "file": "GROUND000.png",
+  "idx_file": "GROUND000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GROUND.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "HIT000": {
+  "file": "HIT000.png",
+  "idx_file": "HIT000.npy",
+  "w": 24,
+  "h": 20,
+  "source": "HIT.$00",
+  "bytes": 480,
+  "linear": false
+ },
+ "INTRO000": {
+  "file": "INTRO000.png",
+  "idx_file": "INTRO000.npy",
+  "w": 108,
+  "h": 28,
+  "source": "INTRO.$00",
+  "bytes": 3024,
+  "linear": false
+ },
+ "lava000": {
+  "file": "lava000.png",
+  "idx_file": "lava000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LAVA.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "lava2000": {
+  "file": "lava2000.png",
+  "idx_file": "lava2000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LAVA2.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "LIFE000": {
+  "file": "LIFE000.png",
+  "idx_file": "LIFE000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LIFE.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "LIFT1000": {
+  "file": "LIFT1000.png",
+  "idx_file": "LIFT1000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LIFT1.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "LJLUI000": {
+  "file": "LJLUI000.png",
+  "idx_file": "LJLUI000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "LJLUI.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "ljmar000": {
+  "file": "ljmar000.png",
+  "idx_file": "ljmar000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "LJMAR.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "LWLUI000": {
+  "file": "LWLUI000.png",
+  "idx_file": "LWLUI000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "LWLUI.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "lwmar000": {
+  "file": "lwmar000.png",
+  "idx_file": "lwmar000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "LWMAR.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "NOTE000": {
+  "file": "NOTE000.png",
+  "idx_file": "NOTE000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "NOTE.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "palbrick000": {
+  "file": "palbrick000.png",
+  "idx_file": "palbrick000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALBRICK.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM0000": {
+  "file": "PALM0000.png",
+  "idx_file": "PALM0000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM0.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM1000": {
+  "file": "PALM1000.png",
+  "idx_file": "PALM1000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM1.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM2000": {
+  "file": "PALM2000.png",
+  "idx_file": "PALM2000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM2.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM3000": {
+  "file": "PALM3000.png",
+  "idx_file": "PALM3000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM3.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "palpill000": {
+  "file": "palpill000.png",
+  "idx_file": "palpill000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALPILL.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "part000": {
+  "file": "part000.png",
+  "idx_file": "part000.npy",
+  "w": 12,
+  "h": 7,
+  "source": "PART.$00",
+  "bytes": 84,
+  "linear": false
+ },
+ "pin000": {
+  "file": "pin000.png",
+  "idx_file": "pin000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PIN.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "PIPE000": {
+  "file": "PIPE000.png",
+  "idx_file": "PIPE000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PIPE.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "poison000": {
+  "file": "poison000.png",
+  "idx_file": "poison000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "POISON.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "pplant000": {
+  "file": "pplant000.png",
+  "idx_file": "pplant000.npy",
+  "w": 24,
+  "h": 20,
+  "source": "PPLANT.$00",
+  "bytes": 480,
+  "linear": false
+ },
+ "QUEST000": {
+  "file": "QUEST000.png",
+  "idx_file": "QUEST000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "QUEST.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "RDKOOPA000": {
+  "file": "RDKOOPA000.png",
+  "idx_file": "RDKOOPA000.npy",
+  "w": 20,
+  "h": 24,
+  "source": "RDKOOPA.$00",
+  "bytes": 480,
+  "linear": false
+ },
+ "RDKP000": {
+  "file": "RDKP000.png",
+  "idx_file": "RDKP000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "RDKP.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "RED000": {
+  "file": "RED000.png",
+  "idx_file": "RED000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "RED.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "SAND000": {
+  "file": "SAND000.png",
+  "idx_file": "SAND000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "SAND.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "SJLUI000": {
+  "file": "SJLUI000.png",
+  "idx_file": "SJLUI000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "SJLUI.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "SJMAR000": {
+  "file": "SJMAR000.png",
+  "idx_file": "SJMAR000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "SJMAR.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "SMTREE000": {
+  "file": "SMTREE000.png",
+  "idx_file": "SMTREE000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "SMTREE.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "SPENS000": {
+  "file": "SPENS000.png",
+  "idx_file": "SPENS000.npy",
+  "w": 48,
+  "h": 16,
+  "source": "SPENS.$00",
+  "bytes": 768,
+  "linear": false
+ },
+ "STAR000": {
+  "file": "STAR000.png",
+  "idx_file": "STAR000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "STAR.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "START000": {
+  "file": "START000.png",
+  "idx_file": "START000.npy",
+  "w": 116,
+  "h": 13,
+  "source": "Start.bak.$00",
+  "bytes": 1508,
+  "linear": false
+ },
+ "swLUI000": {
+  "file": "swLUI000.png",
+  "idx_file": "swLUI000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "SWLUI.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWMAR000": {
+  "file": "SWMAR000.png",
+  "idx_file": "SWMAR000.npy",
+  "w": 20,
+  "h": 28,
+  "source": "SWMAR.$00",
+  "bytes": 560,
+  "linear": false
+ },
+ "TREE000": {
+  "file": "TREE000.png",
+  "idx_file": "TREE000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "TREE.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "WHFIRE000": {
+  "file": "WHFIRE000.png",
+  "idx_file": "WHFIRE000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "WHFIRE.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "whhit000": {
+  "file": "whhit000.png",
+  "idx_file": "whhit000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "WHHIT.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "window000": {
+  "file": "window000.png",
+  "idx_file": "window000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "WINDOW.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "WOOD000": {
+  "file": "WOOD000.png",
+  "idx_file": "WOOD000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "WOOD.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "WPALM000": {
+  "file": "WPALM000.png",
+  "idx_file": "WPALM000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "WPALM.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "X000": {
+  "file": "X000.png",
+  "idx_file": "X000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "X.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "xblock000": {
+  "file": "xblock000.png",
+  "idx_file": "xblock000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "XBLOCK.$00",
+  "bytes": 280,
+  "linear": false
+ },
+ "BLOCK001": {
+  "file": "BLOCK001.png",
+  "idx_file": "BLOCK001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BLOCK.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "BRICK0001": {
+  "file": "BRICK0001.png",
+  "idx_file": "BRICK0001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BRICK0.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "BRICK1001": {
+  "file": "BRICK1001.png",
+  "idx_file": "BRICK1001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BRICK1.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "BRICK2001": {
+  "file": "BRICK2001.png",
+  "idx_file": "BRICK2001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BRICK2.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "BROWN001": {
+  "file": "BROWN001.png",
+  "idx_file": "BROWN001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BROWN.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "BUSH001": {
+  "file": "BUSH001.png",
+  "idx_file": "BUSH001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "Bush.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "chibibo001": {
+  "file": "chibibo001.png",
+  "idx_file": "chibibo001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "CHIBIBO.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "DES001": {
+  "file": "DES001.png",
+  "idx_file": "DES001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "DES.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "DONUT001": {
+  "file": "DONUT001.png",
+  "idx_file": "DONUT001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "DONUT.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "exit001": {
+  "file": "exit001.png",
+  "idx_file": "exit001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "EXIT.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "F001": {
+  "file": "F001.png",
+  "idx_file": "F001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "F.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "FALL001": {
+  "file": "FALL001.png",
+  "idx_file": "FALL001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "FALL.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "FENCE001": {
+  "file": "FENCE001.png",
+  "idx_file": "FENCE001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "Fence.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "fire001": {
+  "file": "fire001.png",
+  "idx_file": "fire001.npy",
+  "w": 12,
+  "h": 7,
+  "source": "FIRE.$01",
+  "bytes": 84,
+  "linear": false
+ },
+ "FISH001": {
+  "file": "FISH001.png",
+  "idx_file": "FISH001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "FISH.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "FJLUI001": {
+  "file": "FJLUI001.png",
+  "idx_file": "FJLUI001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "FJLUI.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "fjmar001": {
+  "file": "fjmar001.png",
+  "idx_file": "fjmar001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "FJMAR.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "FWLUI001": {
+  "file": "FWLUI001.png",
+  "idx_file": "FWLUI001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "FWLUI.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "fwmar001": {
+  "file": "fwmar001.png",
+  "idx_file": "fwmar001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "FWMAR.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "GRASS001": {
+  "file": "GRASS001.png",
+  "idx_file": "GRASS001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS1001": {
+  "file": "GRASS1001.png",
+  "idx_file": "GRASS1001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS1.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS2001": {
+  "file": "GRASS2001.png",
+  "idx_file": "GRASS2001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS2.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS3001": {
+  "file": "GRASS3001.png",
+  "idx_file": "GRASS3001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS3.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "green001": {
+  "file": "green001.png",
+  "idx_file": "green001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GREEN.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRKOOPA001": {
+  "file": "GRKOOPA001.png",
+  "idx_file": "GRKOOPA001.npy",
+  "w": 20,
+  "h": 24,
+  "source": "GRKOOPA.$01",
+  "bytes": 480,
+  "linear": false
+ },
+ "grkp001": {
+  "file": "grkp001.png",
+  "idx_file": "grkp001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRKP.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "GROUND001": {
+  "file": "GROUND001.png",
+  "idx_file": "GROUND001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GROUND.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "INTRO001": {
+  "file": "INTRO001.png",
+  "idx_file": "INTRO001.npy",
+  "w": 24,
+  "h": 28,
+  "source": "INTRO.$01",
+  "bytes": 672,
+  "linear": false
+ },
+ "lava001": {
+  "file": "lava001.png",
+  "idx_file": "lava001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LAVA.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "lava2001": {
+  "file": "lava2001.png",
+  "idx_file": "lava2001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LAVA2.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "LIFT1001": {
+  "file": "LIFT1001.png",
+  "idx_file": "LIFT1001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LIFT1.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "LJLUI001": {
+  "file": "LJLUI001.png",
+  "idx_file": "LJLUI001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "LJLUI.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "LJMAR001": {
+  "file": "LJMAR001.png",
+  "idx_file": "LJMAR001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "LJMAR.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "LWLUI001": {
+  "file": "LWLUI001.png",
+  "idx_file": "LWLUI001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "LWLUI.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "lwmar001": {
+  "file": "lwmar001.png",
+  "idx_file": "lwmar001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "LWMAR.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "PALM0001": {
+  "file": "PALM0001.png",
+  "idx_file": "PALM0001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM0.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM1001": {
+  "file": "PALM1001.png",
+  "idx_file": "PALM1001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM1.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM2001": {
+  "file": "PALM2001.png",
+  "idx_file": "PALM2001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM2.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM3001": {
+  "file": "PALM3001.png",
+  "idx_file": "PALM3001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM3.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "palpill001": {
+  "file": "palpill001.png",
+  "idx_file": "palpill001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALPILL.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "PIPE001": {
+  "file": "PIPE001.png",
+  "idx_file": "PIPE001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PIPE.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "pplant001": {
+  "file": "pplant001.png",
+  "idx_file": "pplant001.npy",
+  "w": 24,
+  "h": 20,
+  "source": "PPLANT.$01",
+  "bytes": 480,
+  "linear": false
+ },
+ "QUEST001": {
+  "file": "QUEST001.png",
+  "idx_file": "QUEST001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "QUEST.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "RDKOOPA001": {
+  "file": "RDKOOPA001.png",
+  "idx_file": "RDKOOPA001.npy",
+  "w": 20,
+  "h": 24,
+  "source": "RDKOOPA.$01",
+  "bytes": 480,
+  "linear": false
+ },
+ "RDKP001": {
+  "file": "RDKP001.png",
+  "idx_file": "RDKP001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "RDKP.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "RED001": {
+  "file": "RED001.png",
+  "idx_file": "RED001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "RED.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "SAND001": {
+  "file": "SAND001.png",
+  "idx_file": "SAND001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "SAND.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "SJLUI001": {
+  "file": "SJLUI001.png",
+  "idx_file": "SJLUI001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "SJLUI.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "SJMAR001": {
+  "file": "SJMAR001.png",
+  "idx_file": "SJMAR001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "SJMAR.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "SMTREE001": {
+  "file": "SMTREE001.png",
+  "idx_file": "SMTREE001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "SMTREE.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "Start001": {
+  "file": "Start001.png",
+  "idx_file": "Start001.npy",
+  "w": 108,
+  "h": 13,
+  "source": "START.$01",
+  "bytes": 1404,
+  "linear": false
+ },
+ "SWLUI001": {
+  "file": "SWLUI001.png",
+  "idx_file": "SWLUI001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "SWLUI.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWMAR001": {
+  "file": "SWMAR001.png",
+  "idx_file": "SWMAR001.npy",
+  "w": 20,
+  "h": 28,
+  "source": "SWMAR.$01",
+  "bytes": 560,
+  "linear": false
+ },
+ "TREE001": {
+  "file": "TREE001.png",
+  "idx_file": "TREE001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "TREE.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "window001": {
+  "file": "window001.png",
+  "idx_file": "window001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "WINDOW.$01",
+  "bytes": 280,
+  "linear": false
+ },
+ "BRICK0002": {
+  "file": "BRICK0002.png",
+  "idx_file": "BRICK0002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BRICK0.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "BRICK1002": {
+  "file": "BRICK1002.png",
+  "idx_file": "BRICK1002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BRICK1.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "BRICK2002": {
+  "file": "BRICK2002.png",
+  "idx_file": "BRICK2002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BRICK2.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "BROWN002": {
+  "file": "BROWN002.png",
+  "idx_file": "BROWN002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BROWN.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "chibibo002": {
+  "file": "chibibo002.png",
+  "idx_file": "chibibo002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "CHIBIBO.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "DES002": {
+  "file": "DES002.png",
+  "idx_file": "DES002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "DES.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "F002": {
+  "file": "F002.png",
+  "idx_file": "F002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "F.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS002": {
+  "file": "GRASS002.png",
+  "idx_file": "GRASS002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS1002": {
+  "file": "GRASS1002.png",
+  "idx_file": "GRASS1002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS1.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS2002": {
+  "file": "GRASS2002.png",
+  "idx_file": "GRASS2002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS2.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS3002": {
+  "file": "GRASS3002.png",
+  "idx_file": "GRASS3002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS3.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "GREEN002": {
+  "file": "GREEN002.png",
+  "idx_file": "GREEN002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GREEN.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "GROUND002": {
+  "file": "GROUND002.png",
+  "idx_file": "GROUND002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GROUND.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "INTRO002": {
+  "file": "INTRO002.png",
+  "idx_file": "INTRO002.npy",
+  "w": 84,
+  "h": 28,
+  "source": "INTRO.$02",
+  "bytes": 2352,
+  "linear": false
+ },
+ "lava2002": {
+  "file": "lava2002.png",
+  "idx_file": "lava2002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LAVA2.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM0002": {
+  "file": "PALM0002.png",
+  "idx_file": "PALM0002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM0.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM1002": {
+  "file": "PALM1002.png",
+  "idx_file": "PALM1002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM1.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM2002": {
+  "file": "PALM2002.png",
+  "idx_file": "PALM2002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM2.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "PALM3002": {
+  "file": "PALM3002.png",
+  "idx_file": "PALM3002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALM3.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "palpill002": {
+  "file": "palpill002.png",
+  "idx_file": "palpill002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PALPILL.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "PIPE002": {
+  "file": "PIPE002.png",
+  "idx_file": "PIPE002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PIPE.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "pplant002": {
+  "file": "pplant002.png",
+  "idx_file": "pplant002.npy",
+  "w": 24,
+  "h": 20,
+  "source": "PPLANT.$02",
+  "bytes": 480,
+  "linear": false
+ },
+ "SAND002": {
+  "file": "SAND002.png",
+  "idx_file": "SAND002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "SAND.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "TREE002": {
+  "file": "TREE002.png",
+  "idx_file": "TREE002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "TREE.$02",
+  "bytes": 280,
+  "linear": false
+ },
+ "BROWN003": {
+  "file": "BROWN003.png",
+  "idx_file": "BROWN003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BROWN.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "chibibo003": {
+  "file": "chibibo003.png",
+  "idx_file": "chibibo003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "CHIBIBO.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "DES003": {
+  "file": "DES003.png",
+  "idx_file": "DES003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "des.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "F003": {
+  "file": "F003.png",
+  "idx_file": "F003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "F.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS003": {
+  "file": "GRASS003.png",
+  "idx_file": "GRASS003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "GREEN003": {
+  "file": "GREEN003.png",
+  "idx_file": "GREEN003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GREEN.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "GROUND003": {
+  "file": "GROUND003.png",
+  "idx_file": "GROUND003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GROUND.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "lava2003": {
+  "file": "lava2003.png",
+  "idx_file": "lava2003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LAVA2.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "PIPE003": {
+  "file": "PIPE003.png",
+  "idx_file": "PIPE003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "PIPE.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "pplant003": {
+  "file": "pplant003.png",
+  "idx_file": "pplant003.npy",
+  "w": 24,
+  "h": 20,
+  "source": "PPLANT.$03",
+  "bytes": 480,
+  "linear": false
+ },
+ "SAND003": {
+  "file": "SAND003.png",
+  "idx_file": "SAND003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "SAND.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "TREE003": {
+  "file": "TREE003.png",
+  "idx_file": "TREE003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "TREE.$03",
+  "bytes": 280,
+  "linear": false
+ },
+ "BROWN004": {
+  "file": "BROWN004.png",
+  "idx_file": "BROWN004.npy",
+  "w": 20,
+  "h": 14,
+  "source": "BROWN.$04",
+  "bytes": 280,
+  "linear": false
+ },
+ "DES004": {
+  "file": "DES004.png",
+  "idx_file": "DES004.npy",
+  "w": 20,
+  "h": 14,
+  "source": "DES.$04",
+  "bytes": 280,
+  "linear": false
+ },
+ "GRASS004": {
+  "file": "GRASS004.png",
+  "idx_file": "GRASS004.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GRASS.$04",
+  "bytes": 280,
+  "linear": false
+ },
+ "GREEN004": {
+  "file": "GREEN004.png",
+  "idx_file": "GREEN004.npy",
+  "w": 20,
+  "h": 14,
+  "source": "Green.bak.$04",
+  "bytes": 280,
+  "linear": false
+ },
+ "GROUND004": {
+  "file": "GROUND004.png",
+  "idx_file": "GROUND004.npy",
+  "w": 20,
+  "h": 14,
+  "source": "GROUND.$04",
+  "bytes": 280,
+  "linear": false
+ },
+ "lava2004": {
+  "file": "lava2004.png",
+  "idx_file": "lava2004.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LAVA2.$04",
+  "bytes": 280,
+  "linear": false
+ },
+ "SAND004": {
+  "file": "SAND004.png",
+  "idx_file": "SAND004.npy",
+  "w": 20,
+  "h": 14,
+  "source": "SAND.$04",
+  "bytes": 280,
+  "linear": false
+ },
+ "DES005": {
+  "file": "DES005.png",
+  "idx_file": "DES005.npy",
+  "w": 20,
+  "h": 14,
+  "source": "des.$05",
+  "bytes": 280,
+  "linear": false
+ },
+ "lava2005": {
+  "file": "lava2005.png",
+  "idx_file": "lava2005.npy",
+  "w": 20,
+  "h": 14,
+  "source": "LAVA2.$05",
+  "bytes": 280,
+  "linear": false
+ },
+ "!PAS": {
+  "file": "!PAS.png",
+  "idx_file": "!PAS.npy",
+  "w": 20,
+  "h": 14,
+  "source": "!.$AS",
+  "bytes": 280,
+  "linear": true
+ },
+ "HPIPE000": {
+  "file": "HPIPE000.png",
+  "idx_file": "HPIPE000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/hp_mouth_top.png",
+  "linear": false
+ },
+ "HPIPE001": {
+  "file": "HPIPE001.png",
+  "idx_file": "HPIPE001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/hp_mouth_bot.png",
+  "linear": false
+ },
+ "HPIPE002": {
+  "file": "HPIPE002.png",
+  "idx_file": "HPIPE002.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/hp_body_top.png",
+  "linear": false
+ },
+ "HPIPE003": {
+  "file": "HPIPE003.png",
+  "idx_file": "HPIPE003.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/hp_body_bot.png",
+  "linear": false
+ },
+ "CHRGRS000": {
+  "file": "CHRGRS000.png",
+  "idx_file": "CHRGRS000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/grass_a.png",
+  "linear": false
+ },
+ "CHRGRS001": {
+  "file": "CHRGRS001.png",
+  "idx_file": "CHRGRS001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/grass_b.png",
+  "linear": false
+ },
+ "CHRFLW000": {
+  "file": "CHRFLW000.png",
+  "idx_file": "CHRFLW000.npy",
+  "w": 14,
+  "h": 12,
+  "source": "charlie_extract/flower_a.png",
+  "linear": false
+ },
+ "CHRFLW001": {
+  "file": "CHRFLW001.png",
+  "idx_file": "CHRFLW001.npy",
+  "w": 14,
+  "h": 12,
+  "source": "charlie_extract/flower_b.png",
+  "linear": false
+ },
+ "CHRCAT1000": {
+  "file": "CHRCAT1000.png",
+  "idx_file": "CHRCAT1000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/cattail1a.png",
+  "linear": false
+ },
+ "CHRCAT1001": {
+  "file": "CHRCAT1001.png",
+  "idx_file": "CHRCAT1001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/cattail1b.png",
+  "linear": false
+ },
+ "CHRCAT2000": {
+  "file": "CHRCAT2000.png",
+  "idx_file": "CHRCAT2000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/cattail2a.png",
+  "linear": false
+ },
+ "CHRCAT2001": {
+  "file": "CHRCAT2001.png",
+  "idx_file": "CHRCAT2001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract/cattail2b.png",
+  "linear": false
+ },
+ "CHRPALM000": {
+  "file": "CHRPALM000.png",
+  "idx_file": "CHRPALM000.npy",
+  "w": 59,
+  "h": 41,
+  "source": "charlie_extract/palm_crown.png",
+  "linear": false
+ },
+ "CHRPALM001": {
+  "file": "CHRPALM001.png",
+  "idx_file": "CHRPALM001.npy",
+  "w": 59,
+  "h": 41,
+  "source": "charlie_extract/palm_leaf.png",
+  "linear": false
+ },
+ "CHRTRNK000": {
+  "file": "CHRTRNK000.png",
+  "idx_file": "CHRTRNK000.npy",
+  "w": 16,
+  "h": 14,
+  "source": "charlie_extract2/palm_trunk.png",
+  "linear": false
+ },
+ "CHRBSH000": {
+  "file": "CHRBSH000.png",
+  "idx_file": "CHRBSH000.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract2/bush_a.png",
+  "linear": false
+ },
+ "CHRBSH001": {
+  "file": "CHRBSH001.png",
+  "idx_file": "CHRBSH001.npy",
+  "w": 20,
+  "h": 14,
+  "source": "charlie_extract2/bush_b.png",
+  "linear": false
+ },
+ "SWIM_SMALL_MARIO_0": {
+  "file": "SWIM_SMALL_MARIO_0.png",
+  "idx_file": "SWIM_SMALL_MARIO_0.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/stand",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_SMALL_MARIO_1": {
+  "file": "SWIM_SMALL_MARIO_1.png",
+  "idx_file": "SWIM_SMALL_MARIO_1.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/walk",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_SMALL_MARIO_3": {
+  "file": "SWIM_SMALL_MARIO_3.png",
+  "idx_file": "SWIM_SMALL_MARIO_3.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jumpUp",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_SMALL_MARIO_2": {
+  "file": "SWIM_SMALL_MARIO_2.png",
+  "idx_file": "SWIM_SMALL_MARIO_2.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jump",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_BIG_MARIO_0": {
+  "file": "SWIM_BIG_MARIO_0.png",
+  "idx_file": "SWIM_BIG_MARIO_0.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/stand",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_BIG_MARIO_1": {
+  "file": "SWIM_BIG_MARIO_1.png",
+  "idx_file": "SWIM_BIG_MARIO_1.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/walk",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_BIG_MARIO_2": {
+  "file": "SWIM_BIG_MARIO_2.png",
+  "idx_file": "SWIM_BIG_MARIO_2.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jump",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_BIG_MARIO_3": {
+  "file": "SWIM_BIG_MARIO_3.png",
+  "idx_file": "SWIM_BIG_MARIO_3.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jumpUp",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_FIRE_MARIO_1": {
+  "file": "SWIM_FIRE_MARIO_1.png",
+  "idx_file": "SWIM_FIRE_MARIO_1.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/walk",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_FIRE_MARIO_0": {
+  "file": "SWIM_FIRE_MARIO_0.png",
+  "idx_file": "SWIM_FIRE_MARIO_0.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/stand",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_FIRE_MARIO_2": {
+  "file": "SWIM_FIRE_MARIO_2.png",
+  "idx_file": "SWIM_FIRE_MARIO_2.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jump",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_FIRE_MARIO_3": {
+  "file": "SWIM_FIRE_MARIO_3.png",
+  "idx_file": "SWIM_FIRE_MARIO_3.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jumpUp",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_SMALL_LUIGI_1": {
+  "file": "SWIM_SMALL_LUIGI_1.png",
+  "idx_file": "SWIM_SMALL_LUIGI_1.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/walk",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_SMALL_LUIGI_0": {
+  "file": "SWIM_SMALL_LUIGI_0.png",
+  "idx_file": "SWIM_SMALL_LUIGI_0.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/stand",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_SMALL_LUIGI_2": {
+  "file": "SWIM_SMALL_LUIGI_2.png",
+  "idx_file": "SWIM_SMALL_LUIGI_2.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jump",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_SMALL_LUIGI_3": {
+  "file": "SWIM_SMALL_LUIGI_3.png",
+  "idx_file": "SWIM_SMALL_LUIGI_3.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jumpUp",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_BIG_LUIGI_2": {
+  "file": "SWIM_BIG_LUIGI_2.png",
+  "idx_file": "SWIM_BIG_LUIGI_2.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jump",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_BIG_LUIGI_3": {
+  "file": "SWIM_BIG_LUIGI_3.png",
+  "idx_file": "SWIM_BIG_LUIGI_3.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jumpUp",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_BIG_LUIGI_1": {
+  "file": "SWIM_BIG_LUIGI_1.png",
+  "idx_file": "SWIM_BIG_LUIGI_1.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/walk",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_BIG_LUIGI_0": {
+  "file": "SWIM_BIG_LUIGI_0.png",
+  "idx_file": "SWIM_BIG_LUIGI_0.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/stand",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_FIRE_LUIGI_1": {
+  "file": "SWIM_FIRE_LUIGI_1.png",
+  "idx_file": "SWIM_FIRE_LUIGI_1.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/walk",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_FIRE_LUIGI_0": {
+  "file": "SWIM_FIRE_LUIGI_0.png",
+  "idx_file": "SWIM_FIRE_LUIGI_0.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/stand",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_FIRE_LUIGI_3": {
+  "file": "SWIM_FIRE_LUIGI_3.png",
+  "idx_file": "SWIM_FIRE_LUIGI_3.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jumpUp",
+  "bytes": 560,
+  "linear": false
+ },
+ "SWIM_FIRE_LUIGI_2": {
+  "file": "SWIM_FIRE_LUIGI_2.png",
+  "idx_file": "SWIM_FIRE_LUIGI_2.npy",
+  "w": 20,
+  "h": 28,
+  "source": "91898 swim/jump",
+  "bytes": 560,
+  "linear": false
+ },
+ "WATER_SURF_0": {
+  "file": "WATER_SURF_0.png",
+  "idx_file": "WATER_SURF_0.npy",
+  "w": 20,
+  "h": 9,
+  "source": "91898 water/surf0",
+  "bytes": 180,
+  "linear": false
+ },
+ "WATER_SURF_1": {
+  "file": "WATER_SURF_1.png",
+  "idx_file": "WATER_SURF_1.npy",
+  "w": 20,
+  "h": 9,
+  "source": "91898 water/surf1",
+  "bytes": 180,
+  "linear": false
+ },
+ "WATER_SURF_2": {
+  "file": "WATER_SURF_2.png",
+  "idx_file": "WATER_SURF_2.npy",
+  "w": 20,
+  "h": 9,
+  "source": "91898 water/surf2",
+  "bytes": 180,
+  "linear": false
+ },
+ "WATER_BODY_0": {
+  "file": "WATER_BODY_0.png",
+  "idx_file": "WATER_BODY_0.npy",
+  "w": 20,
+  "h": 13,
+  "source": "91898 water/body0",
+  "bytes": 260,
+  "linear": false
+ },
+ "WATER_BODY_1": {
+  "file": "WATER_BODY_1.png",
+  "idx_file": "WATER_BODY_1.npy",
+  "w": 20,
+  "h": 13,
+  "source": "91898 water/body1",
+  "bytes": 260,
+  "linear": false
+ },
+ "WATER_BODY_2": {
+  "file": "WATER_BODY_2.png",
+  "idx_file": "WATER_BODY_2.npy",
+  "w": 20,
+  "h": 13,
+  "source": "91898 water/body2",
+  "bytes": 260,
+  "linear": false
+ }
+}
