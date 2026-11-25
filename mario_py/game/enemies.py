@@ -323,6 +323,14 @@ SIDE_PLANT_RISE = 19               # px it clears the pipe mouth by
 SIDE_PLANT_HOLD = 200              # frames fully extended, chewing
 SIDE_PLANT_WAIT = (100, 200)       # random rest before coming out again
 
+# Player-near suppression (2026-11-25).  The original keeps a vertical plant
+# inside its pipe while Mario's X is near it; the port adds the sideways
+# plant's mirror rule (Mario's Y near it) and, for both, a guard on the *other*
+# axis so a player on a wholly different part of the map does not suppress it.
+PLANT_NEAR_ROWS = 13               # vertical guard: |dy| <= 13 * H (182 px)
+PLANT_NEAR_COLS = 13               # sideways guard: |dx| <= 13 * W (260 px)
+SIDE_PLANT_NEAR_ROWS = 2           # sideways "Mario Y near" = his box, +/-2 rows
+
 
 def _is_plant(tp: int) -> bool:
     return tp in PLANT_TPS
@@ -2241,7 +2249,7 @@ class Enemies:
         frames, so the difference is kept as it is."""
         e.tp = TP_DEAD_LAKITU
         e.sub_tp = 1
-        e.x_vel = _corpse_dir(e)
+        e.x_vel = 0                     # XP: defeated cloud falls straight down
         e.fly_vy = HBRO_DEFEATED_POP
         e.fly_yrem = 0
         self.hooks.add_score(400)
@@ -3214,6 +3222,17 @@ class Enemies:
                 e.status = 3
                 e.counter = 0
         else:                                   # resting inside the pipe
+            # Mirror of the vertical plant's original gate, turned onto Y:
+            # while Mario's Y is near the pipe mouth, stay inside.  The port's
+            # extra guard requires |dx| <= PLANT_NEAR_COLS columns, otherwise
+            # a Mario on the far side of a wide level cannot hold it in.
+            py = (self.player_y1 + self.player_y2) // 2
+            px = (self.player_x1 + self.player_x2) // 2
+            y_near = abs(py - (e.y_pos + H // 2)) <= SIDE_PLANT_NEAR_ROWS * H
+            x_near = abs(px - (home + W // 2)) <= PLANT_NEAR_COLS * W
+            if y_near and x_near:
+                e.counter = 0                   # keep waiting, do not come out
+                return
             e.counter += 1
             if e.counter > self.rng.randrange(*SIDE_PLANT_WAIT):
                 e.counter = 0
@@ -3479,13 +3498,21 @@ class Enemies:
             self._move_side_plant(e)
         elif _is_plant(e.tp):
             if e.status == 0:
+                # Original X gate (ENEMIES.PAS:886-891) says "stay in the pipe
+                # while Mario's X is near".  The port's extra guard: only
+                # apply that gate when Mario is also within PLANT_NEAR_ROWS
+                # rows of the plant; far away on Y he must not hold it in.
+                py = (self.player_y1 + self.player_y2) // 2
+                y_near = abs(py - (e.y_pos + H // 2)) <= PLANT_NEAR_ROWS * H
                 if e.sub_tp == 0:
-                    if ((e.x_pos > self.player_x2 + W)
-                            or (e.x_pos + 24 + W < self.player_x1)):
+                    if (not y_near
+                            or e.x_pos > self.player_x2 + W
+                            or e.x_pos + 24 + W < self.player_x1):
                         e.status += 1
                 elif e.sub_tp == 1:
-                    if ((e.x_pos > self.player_x2)
-                            or (e.x_pos + 24 < self.player_x1)):
+                    if (not y_near
+                            or e.x_pos > self.player_x2
+                            or e.x_pos + 24 < self.player_x1):
                         e.status += 1
                 else:
                     e.status += 1
@@ -4015,14 +4042,20 @@ class Enemies:
         self.cd_enemy = 1
         hk.add_score(100)
 
-    def _stomp_defeated(self, e: EnemyRec, dead: int, score: int) -> None:
+    def _stomp_defeated(self, e: EnemyRec, dead: int, score: int,
+                        drift: bool = True) -> None:
         """The two flyers that have a dedicated *dead* (not "defeated") pose under
         a stomp: ``sub_tp`` 0 picks that pose, and the corpse rides the same
-        light upward pop as the Hammer Brother's other death."""
+        light upward pop as the Hammer Brother's other death.
+
+        ``drift=False`` is the Lakitu rule (2026-11-25): XP's obj_lakitu Step_0
+        moves a defeated cloud with ``y += defeatedYSpeed`` only -- no x drift.
+        The Hammer Brother keeps the default sideways corpse arc.
+        """
         hk = self.hooks
         e.tp = dead
         e.sub_tp = 0
-        e.x_vel = _corpse_dir(e)
+        e.x_vel = _corpse_dir(e) if drift else 0
         e.fly_vy = HBRO_DEFEATED_POP
         e.fly_yrem = 0
         hk.beep(800)
@@ -4342,7 +4375,8 @@ class Enemies:
                 elif e.tp == TP_HAMMER_BRO:
                     self._stomp_defeated(e, TP_DEAD_HAMMER_BRO, 200)
                 elif e.tp == TP_LAKITU:
-                    self._stomp_defeated(e, TP_DEAD_LAKITU, 400)
+                    # XP: a defeated cloud falls straight down (no x drift)
+                    self._stomp_defeated(e, TP_DEAD_LAKITU, 400, drift=False)
                 elif e.tp == TP_BOMB:
                     self._stomp_bomb(e, idx)
                 elif e.tp == TP_DRY_BONES_FALL:

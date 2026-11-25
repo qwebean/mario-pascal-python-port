@@ -547,9 +547,11 @@ class Player:
         rec.visible = True
 
         mode = self._mode()
-        if self.in_water:
-            # only the three swim poses; the walk/jump frames are never used
-            # underwater (user's rule).  Star/grow still recolour the frame.
+        if self.in_water and self.status != ST_ON_THE_GROUND:
+            # Swim poses only while actually swimming.  Standing on the
+            # bottom or on a lift (status == ST_ON_THE_GROUND, including
+            # cd_lift) keeps the ordinary walk/stand/jump frames -- the user's
+            # 2026-11-25 correction.  Star/grow still recolour the frame.
             pose = self.swim_frame
             if self.enemies.star or self.growing:
                 n = self.grow_counter + self.star_counter
